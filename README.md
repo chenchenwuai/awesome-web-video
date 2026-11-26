@@ -54,6 +54,10 @@ https://github.com/Hunlongyu/ZY-Player
 https://github.com/131/h264-live-player
 > A live h264 player for the browser (ideal for raspberrypi / raspicam )
 
+### videojs-story-view
+https://github.com/hicay/videojs-story-view
+> Instagram 风格的网页视频/图片故事（Stories）组件：零依赖的 `<story-view>` 自定义元素，另附可选的 Video.js 8 插件。[在线演示](https://hicay.github.io/videojs-story-view/)
+
 ## 解码
 ### decoder_wasm
 https://github.com/goldvideo/decoder_wasm
